@@ -1,0 +1,12 @@
+{
+    "name": "wine-cellar",
+    "description": "Wine Cellar Application",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "4.x",
+        "mongodb": "1.4.22",
+        "morgan": "1.5.0",
+        "body-parser": "1.9.3"
+    }
+}
